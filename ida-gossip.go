@@ -6,8 +6,8 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/kimborgen/go-merkletree"
 	"github.com/klauspost/reedsolomon"
+	"github.com/wdwd5wd/go-merkletree"
 )
 
 type IDAGossipMsg struct {

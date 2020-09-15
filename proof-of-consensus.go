@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/kimborgen/go-merkletree"
+	"github.com/wdwd5wd/go-merkletree"
 )
 
 func createMerkleTree(nodeCtx *NodeCtx, transactions []*Transaction) *merkletree.MerkleTree {
